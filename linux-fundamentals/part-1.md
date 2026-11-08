@@ -46,4 +46,12 @@ As I complete more TryHackMe rooms, I plan to document the commands I use, the p
 
 *Screenshots of my completed exercises and command-line practice will be added here.*
 
+### 🌿 TryHackMe Room Completion
+
+![Linux Fundamentals Part 1 Completion](screenshots/Room-Completed-Linux-Fundamentals.png)
+
+### 🐧 Linux Command Practice
+
+![Linux Terminal Commands](screenshots/Linux-Commands-Linux-Fundamentals.png)
+
 ---
