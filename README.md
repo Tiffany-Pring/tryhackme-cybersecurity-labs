@@ -32,7 +32,9 @@ I'll add each room here as I complete it,
 along with my own notes and findings.
 
 | Room | Skills Practiced | Write-Up |
-|---|---|---|
+
+| 🐧 Linux Fundamentals Part 1 | Linux CLI, navigation, file searches | [View Write-Up](linux-fundamentals/part-1.md) |
+
 | Coming soon | — | — |
 
 ---
